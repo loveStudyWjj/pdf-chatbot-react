@@ -48,6 +48,9 @@ Ensure you have Node.js installed on your local machine.
 
 ### Screenshots
 
+![Snipaste1](https://github.com/loveStudyWjj/pdf-chatbot-react/blob/main/image/Snipaste1.jpg)
+
+![Snipaste1](https://github.com/loveStudyWjj/pdf-chatbot-react/blob/main/image/Snipaste2.jpg)
 
 
 ### License
